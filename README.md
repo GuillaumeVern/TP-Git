@@ -65,4 +65,17 @@ Ensuite, `git add *` et `git commit -m <message>` pour commmit les changements
 
 ### Étape 2. Mergez votre branche : fast-forward merge 
 
+depuis la branche main : `git merge future-plans`
+
+![image info](./Readme-images/merge.png)
+
+
+suppression de la branche future-plans avec `git branch -d future-plans`
+
+![image info](./Readme-images/delete-branch.png)
+
+
+### Étape 3. Pushez vos changements vers Bitbucket 
+
+
 
