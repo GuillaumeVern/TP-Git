@@ -77,5 +77,5 @@ suppression de la branche future-plans avec `git branch -d future-plans`
 
 ### Étape 3. Pushez vos changements vers Bitbucket 
 
-
+avec la commande `git push origin main`.
 
