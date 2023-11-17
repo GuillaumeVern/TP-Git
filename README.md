@@ -60,6 +60,9 @@ un `git status` permet de confirmer qu'on est bien sur la nouvelle branche
 
 ![image info](./Readme-images/status3.png)
 
+Ensuite, `git add *` et `git commit -m <message>` pour commmit les changements
 
+
+### Étape 2. Mergez votre branche : fast-forward merge 
 
 
