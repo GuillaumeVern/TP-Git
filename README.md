@@ -79,3 +79,18 @@ suppression de la branche future-plans avec `git branch -d future-plans`
 
 avec la commande `git push origin main`.
 
+
+## Exercices
+![Alt text](./Readme-images/image.png)
+![Alt text](./Readme-images/image-1.png)
+![Alt text](./Readme-images/image-2.png)
+![Alt text](./Readme-images/image-3.png)
+![Alt text](./Readme-images/image-4.png)
+![Alt text](./Readme-images/image-5.png)
+![Alt text](./Readme-images/image-6.png)
+![Alt text](./Readme-images/image-7.png)
+![Alt text](./Readme-images/image-8.png)
+![Alt text](./Readme-images/image-9.png)
+![Alt text](./Readme-images/image-10.png)
+![Alt text](./Readme-images/image-11.png)
+![Alt text](./Readme-images/image-12.png)
